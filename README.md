@@ -4,6 +4,8 @@ The project involved creating and hosting rooms for players to chat and play tog
 
 The project was written in a Java Maven project, with the UI being written in JavaFX.
 
+<img width="1059" height="799" alt="Screenshot 2025-09-22 221807" src="https://github.com/user-attachments/assets/a3c841b4-502c-4f39-afdc-b79623d22f77" />
+
 <img width="1057" height="741" alt="Screenshot 2025-09-22 220845" src="https://github.com/user-attachments/assets/5e8e82da-4b06-4283-93e6-216cd68a22b6" />
 
 Scored 85%
